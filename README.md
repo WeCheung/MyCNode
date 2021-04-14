@@ -1,4 +1,5 @@
 # cnode_vue
+学习Vue2之后做的一个小项目，现已停止维护
 
 ## Project setup
 ```
